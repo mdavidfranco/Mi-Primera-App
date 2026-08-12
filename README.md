@@ -16,4 +16,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+# Captura de Flutter Doctor
+
 ![Captura de Flutter Doctor](img/Captura%20de%20pantalla%202026-08-12%20173337.png)
