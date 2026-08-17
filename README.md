@@ -8,7 +8,7 @@ Plataforma para que estudiantes hagan seguimiento a sus simulacros de preparaci�
 - `Puntaje` — objeto de valor.
 - `EstadoIntento` — sellada: EnProgreso · Pausado · Finalizado · Calificado · Abandonado.
 
-Decisión: El modelo se escribió a mano, porque priorizo el manejo de errores, ya que de esta manera podemos saber que campo falló exactamente y por qué.
+Decisión: Modelo escrito a mano porque priorizo el manejo de errores, ya que de esta manera podemos saber que campo falló y por qué.
 
 ## Cómo correrlo
 
